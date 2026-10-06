@@ -1,0 +1,26 @@
+{
+  "production": {
+    "world_1990": 5593800000.0,
+    "world_2019": 9903180000.0,
+    "growth_pct": 71.44216710974642,
+    "top5_share_1990": 61.212056205084195,
+    "top5_share_2019": 73.65755242255517
+  },
+  "importers": {
+    "import_gain": 3648720000.0,
+    "re_export_gain": 2287620000.0,
+    "consumption_gain": 1664520000.0
+  },
+  "consumption_share_2019": {
+    "United States of America": 31.37,
+    "Germany": 9.96,
+    "Japan": 8.67,
+    "France": 7.11,
+    "Italy": 6.28,
+    "Russian Federation": 5.54,
+    "United Kingdom": 4.33,
+    "Spain": 3.74,
+    "Poland": 2.87,
+    "Netherlands": 2.33
+  }
+}
